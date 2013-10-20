@@ -1,0 +1,4 @@
+*.o
+korad
+doxygen/*
+gtk
